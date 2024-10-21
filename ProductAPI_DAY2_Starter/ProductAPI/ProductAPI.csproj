@@ -15,8 +15,7 @@
 
   <ItemGroup>
     <Compile Remove="Controllers\ProductRefactorController.cs" />
-    <Compile Remove="Services\Calculator.cs" />
-    <Compile Remove="Services\CalculatorService.cs" />
+    
   </ItemGroup>
 
   <ItemGroup>
