@@ -12,7 +12,7 @@ namespace ProductAPI.Data
         Task<T> ExecuteScalarAsync<T>(IDbConnection connection, string sql, object param = null);
     }
 
-    [ExcludeFromCodeCoverage]
+    
     public class DapperWrapper : IDapperWrapper
     {
         public async Task<IEnumerable<T>> QueryAsync<T>(IDbConnection connection, string sql, object param = null)
