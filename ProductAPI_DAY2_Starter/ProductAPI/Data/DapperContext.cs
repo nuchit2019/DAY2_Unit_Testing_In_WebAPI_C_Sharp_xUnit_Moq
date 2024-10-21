@@ -10,7 +10,7 @@ namespace ProductAPI.Data
         IDbConnection CreateConnection();
     }
 
-    [ExcludeFromCodeCoverage]
+   
     public class DapperContext : IDapperContext
     {
         private readonly IConfiguration _configuration;
