@@ -5,7 +5,7 @@ using System.Diagnostics.CodeAnalysis;
 
 namespace ProductAPI
 {
-    //[ExcludeFromCodeCoverage] // Excludes this class from code coverage analysis
+   
     public class Program
     {
         public static void Main(string[] args)
