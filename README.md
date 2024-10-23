@@ -1,6 +1,8 @@
 # DAY2: Unit Testing In ASP.NET WebAPI using C#, xUnit and Moq
 
 Unit Testing In ASP.NET WebAPI using C#, xUnit and Moq
+![image](https://github.com/user-attachments/assets/a1babf50-5ee7-4a56-8416-e3c9e4a8aeb0)
+
 
 ![image](https://github.com/user-attachments/assets/5ece030c-b2b6-46a8-a070-b9f9789cc651)
 
